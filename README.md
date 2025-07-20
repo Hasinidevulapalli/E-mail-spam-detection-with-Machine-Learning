@@ -22,8 +22,6 @@ The goal of this project is to build a machine learning model that can classify 
 4. **Model Training**  
    - Used classification algorithms like:
      - Naive Bayes  
-     - Logistic Regression  
-     - Support Vector Machine (SVM)
 
 5. **Model Evaluation**  
    - Evaluated using accuracy, precision, recall, F1-score, and confusion matrix.
